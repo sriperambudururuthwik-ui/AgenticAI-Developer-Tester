@@ -1,2 +1,8 @@
 fastapi uvicorn langgraph langchain-core langchain-google-genai pydantic
+fastapi
+uvicorn
+langgraph
+langchain-core
+langchain-google-genai
+pydantic
 requests
